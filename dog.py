@@ -1,4 +1,4 @@
-#3 attributes and two methods
+#3 attributes and 2 methods
 class Dog:
     
     def __init__(self, name, speed, breed):
