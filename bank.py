@@ -2,6 +2,7 @@
 #Amount>0, no outstanding loan, amount requesting is less than loan limit
 #attributes :loan, loan limit, loan fees
 #Ability to transfer to another account
+#class inheritance
 
 from datetime import date, datetime
 class Account:
